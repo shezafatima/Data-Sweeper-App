@@ -75,13 +75,6 @@ st.markdown(
         font-weight: bold;
         color: white;
     }
-
-     div[data-baseweb="radio"] input[type="radio"] {
-        accent-color: #7e57c2; 
-    }
-    div[data-baseweb="checkbox"] input[type="checkbox"] {
-        accent-color: #7e57c2; 
-    }
     /* Download button styling */
     .stDownloadButton>button {
         background-color: #7e57c2;
